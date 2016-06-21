@@ -1,7 +1,7 @@
 # Vietnamese Speech Synthesis RESTful simple for .NET
 
 ## Giới thiệu
-Một project đơn giản hướng dẫn các comunication với TTS của OpenFpt thông qua phương thức bất đông bộ
+Một project simple hướng dẫn cách communication với TTS của OpenFpt thông qua phương thức bất đông bộ.
 
 [![Diagram](processtts.png)](processtts.png?raw=true)
 
