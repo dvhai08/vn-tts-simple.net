@@ -3,8 +3,6 @@
 ## Giới thiệu
 Một project đơn giản hướng dẫn các comunication với TTS của OpenFpt thông qua phương thức bất đông bộ
 
-## Cấu trúc
-
 [![Diagram](processtts.png)](processtts.png?raw=true)
 
 ### Project OpenFpt.TTS
