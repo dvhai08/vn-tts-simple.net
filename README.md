@@ -30,3 +30,7 @@ cách dùng thư viện
 là một Web Service để đón kết quả trả về từ text2speech service.
 
 cài đặt lên IIS theo link: http://krismanohar.com/blog/?p=34
+
+### Project AppTts
+
+một thí dụ đơn giản dùng text2speech service của OpenFpt

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFpt.TTS", "OpenFpt.TTS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTtsService", "AsyncTtsService\AsyncTtsService.csproj", "{36F3D643-86AE-430A-A24A-792E3D810C01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTts", "AppText2Speech\AppTts.csproj", "{F3C7E82F-F368-46DD-A1AE-A6CF68080B8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTts", "AppTts\AppTts.csproj", "{F3C7E82F-F368-46DD-A1AE-A6CF68080B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
